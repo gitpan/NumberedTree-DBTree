@@ -1,0 +1,28 @@
+NAME
+
+NumberedTree::DBTree
+	
+DESCRIPTION
+
+Allows to read and keep up-to-date a tree that is saved as a self-referencing table.
+
+DEPENDENCIES
+
+uses NumberedTree.pm (in my authors directory: YOSEFM).
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2003 Yosef Meller
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself. 
+
