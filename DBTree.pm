@@ -296,7 +296,9 @@ Removes information that is specific to this class and re-blesses the entire tre
 
 =head1 BUGS
 
-Please report to my email below.
+Please report through CPAN: 
+E<lt>http://rt.cpan.org/NoAuth/Bugs.html?Dist=NumberedTreeE<gt>
+or send mail to E<lt>bug-NumberedTree#rt.cpan.orgE<gt> 
 
 =head1 SEE ALSO
 
